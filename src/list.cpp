@@ -3,7 +3,7 @@
 //
 
 #include "../include/list.h"
-
+#include <print>
 bool A19_01(SqList &l, int &e) {
     if (l.length==0) return false;
     int min{l.data[0]};

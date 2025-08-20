@@ -8,5 +8,10 @@ add_executable(
         main.cpp
         src/list.cpp
         include/list.h
-        include/Chapter-2.h
-        src/Chapter-2.cpp)
+        include/chapter-2.h
+        src/chapter-2.cpp
+        src/chapter-3.cpp
+        include/chapter-3.h
+        src/stack.cpp
+        include/stack.h
+)

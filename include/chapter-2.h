@@ -4,9 +4,7 @@
 
 #ifndef TEST_CPP_DATASTRUCTURE_CHAPTER_2_H
 #define TEST_CPP_DATASTRUCTURE_CHAPTER_2_H
-#include <random>
-#include <unordered_set>
-#include "list.h"
+
 void test_A19_01();
 void test_A19_02();
 void test_A19_03();

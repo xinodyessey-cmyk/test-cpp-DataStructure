@@ -4,7 +4,7 @@
 
 #ifndef TEST_CPP_DATASTRUCTURE_LIST_H
 #define TEST_CPP_DATASTRUCTURE_LIST_H
-#include <print>
+
 #define MaxSize 50
 typedef struct SqList {
     int data[MaxSize];
