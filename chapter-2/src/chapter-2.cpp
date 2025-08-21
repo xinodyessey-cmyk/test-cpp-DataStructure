@@ -5,7 +5,7 @@
 #include <unordered_set>
 #include <print>
 #include "../include/chapter-2.h"
-#include "../include/list.h"
+#include "../../core/include/list.h"
 /**
  * @brief 初始化一个用于测试的顺序表，包含不重复的随机整数。
  * @param length 顺序表的长度。如果 length 超过 MaxSize，将使用 MaxSize。

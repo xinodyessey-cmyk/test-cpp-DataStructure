@@ -2,8 +2,8 @@
 // Created by xin on 2025/8/20.
 //
 #include <print>
-#include  "../include/chapter-3.h"
-#include  "../include/stack.h"
+#include "../include/chapter-3.h"
+#include "../../core/include/stack.h"
 using namespace stack;
 using namespace std;
 void test_sq_stack() {
